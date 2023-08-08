@@ -10,8 +10,11 @@
   grid-auto-rows: 240px;
   grid-gap: 12px;
   justify-content: center;
+  padding: 0;
+  list-style: none;
   margin-left: auto;
   margin-right: auto;
+  list-style: none;
 }
 
 .gallery__item {
@@ -40,3 +43,4 @@
 .gallery__link:hover {
   cursor: zoom-in;
 }
+
